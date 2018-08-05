@@ -1,1 +1,3 @@
-# devops-aula02
+# Brooke Shields
+# Cameron Dias
+# Penelope Cruz
