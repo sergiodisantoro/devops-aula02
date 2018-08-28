@@ -4,3 +4,4 @@
 * Beyonce
 * Adelle
 * Elis Regina
+* Gal Costa
